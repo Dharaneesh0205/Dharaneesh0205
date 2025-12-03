@@ -80,27 +80,12 @@
 [![](https://visitcount.itsvg.in/api?id=Dharaneesh0205&icon=0&color=6)](https://visitcount.itsvg.in)
 
 <!-- Made with ❤️ by Dharaneesh S S -->
-- ✅ [**Taskie**](https://github.com/Dharaneesh0205/taskie) – Task & productivity management full stack web app
-- 🧠 [**CSense**](https://github.com/Dharaneesh0205/csense) – Campus community and events hub web platform
-- 🕸️ [**AIM Website**](https://github.com/Dharaneesh0205/aim-website) – Official AI & ML Department portfolio site in React
-- 🌧️ [**Rain**](https://github.com/Dharaneesh0205/rain) – Rainfall dashboard for weather data monitoring
+- ✅ [**Taskie**](https://github.com/Dharaneesh0205/taskie) – Task & Employee management full stack web app
+- 🧠 [**Csense**](https://github.com/Dharaneesh0205/csense) – AI camera automation Monitoring System using React,Computer vision & Flutter
+- 🕸️ [**AIM Website**](https://github.com/Dharaneesh0205/aim-website) – Portfolio for the AIrivu Innovation machina Company
+- 🌧️ [**Rain**](https://github.com/Dharaneesh0205/rain) – Portfolio for the Myrain Company
 
 
----
 
-## 🏆 Achievements:
-- 🥇 **1st Place Winner** – Race to Code (Hackathon), CIT
-- 🤝 **Head Student Coordinator** – Fiesta’25 Paper Presentation Event
-- 💡 Mentoring 3 research teams preparing papers for conferences
-
----
-
-## 📈 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dharaneesh0205&theme=tokyonight&hide_border=false&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Dharaneesh0205&theme=tokyonight&hide_border=false)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Dharaneesh0205&icon=0&color=6)](https://visitcount.itsvg.in)
 
 <!-- Made with ❤️ by Dharaneesh S S -->
