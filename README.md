@@ -57,21 +57,29 @@
 
 ---
 
-## 🔥 Best Projects:
-
-### 🌟 AI & ML Projects:
+## 🔥 Projects:
 - 🎯 [**Luggage Detection using YOLOv5**](https://github.com/Dharaneesh0205/Luggage-Detection) – Real-time object detection of unattended baggage on airport conveyor belts
+- 📊 **Twitter Sentiment Analysis** – Flask-based web app that analyzes tweet sentiment in real-time
+- 🌦️ **Weather Dashboard** – Front-end web app that fetches dynamic weather data with clean UI
 - 🧠 **Alzheimer’s Disease Prediction** – MRI-based ML model accepted at **ICC ROBINS Conference**
-- 🤖 [**Fruit Quality Recognition - Deep Learning App**](https://github.com/Dharaneesh0205/Fruit-Quality-Detector) – Classifies fruit ripeness and defects using Python & CNNs
-- 📊 [**Twitter Sentiment Analysis Web App**](https://github.com/Dharaneesh0205/Twitter-Sentiment-Analysis) – Flask-based app for real-time tweet sentiment analysis
 
-### 🌟 Full Stack Projects:
-- 👾 [**Personal Portfolio (ReactJS)**](https://github.com/Dharaneesh0205/react-portfolio) – Responsive portfolio website built with React, TailwindCSS
-- 🌦️ [**Weather Dashboard**](https://github.com/Dharaneesh0205/weather-dashboard) – React-based UI, fetches weather data via API
-- 📱 [**Flutter TODO App**](https://github.com/Dharaneesh0205/flutter-todo-app) – Android/iOS todo app with Firebase backend
-- 📦 [**Inventory Manager (MERN)**](https://github.com/Dharaneesh0205/inventory-manager) – MERN stack web app for small business inventory
-- 🌧️ [**Reainmaker**](https://github.com/Dharaneesh0205/reainmakerr) – Smart rain prediction and notification full stack app
-- 🧠 [**NuralX**](https://github.com/Dharaneesh0205/nuralx) – Next-gen collaborative learning platform using React & Express
+---
+
+## 🏆 Achievements:
+- 🥇 **1st Place Winner** – Race to Code (Hackathon), CIT
+- 🤝 **Head Student Coordinator** – Fiesta’25 Paper Presentation Event
+
+---
+
+## 📈 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Dharaneesh0205&theme=tokyonight&hide_border=false&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=Dharaneesh0205&theme=tokyonight&hide_border=false)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Dharaneesh0205&icon=0&color=6)](https://visitcount.itsvg.in)
+
+<!-- Made with ❤️ by Dharaneesh S S -->
 - ✅ [**Taskie**](https://github.com/Dharaneesh0205/taskie) – Task & productivity management full stack web app
 - 🧠 [**CSense**](https://github.com/Dharaneesh0205/csense) – Campus community and events hub web platform
 - 🕸️ [**AIM Website**](https://github.com/Dharaneesh0205/aim-website) – Official AI & ML Department portfolio site in React
