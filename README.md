@@ -58,10 +58,15 @@
 ---
 
 ## 🔥 Projects:
-- 🎯 [**Luggage Detection using YOLOv5**](https://github.com/Dharaneesh0205/Luggage-Detection) – Real-time object detection of unattended baggage on airport conveyor belts
+- 🎯 [**Luggage Detection using YOLOv5**] – Real-time object detection of unattended baggage on airport conveyor belts
 - 📊 **Twitter Sentiment Analysis** – Flask-based web app that analyzes tweet sentiment in real-time
 - 🌦️ **Weather Dashboard** – Front-end web app that fetches dynamic weather data with clean UI
 - 🧠 **Alzheimer’s Disease Prediction** – MRI-based ML model accepted at **ICC ROBINS Conference**
+- <!-- Made with ❤️ by Dharaneesh S S -->
+- ✅ [**Taskie**] – Task & Employee management full stack web app
+- 🧠 [**Csense**] – AI camera automation Monitoring System using React,Computer vision & Flutter
+- 🕸️ [**AIM Website**] – Portfolio for the AIrivu Innovation machina Company
+- 🌧️ [**MyRain**] – Portfolio for the Myrain Company
 
 ---
 
@@ -79,11 +84,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=Dharaneesh0205&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<!-- Made with ❤️ by Dharaneesh S S -->
-- ✅ [**Taskie**](https://github.com/Dharaneesh0205/taskie) – Task & Employee management full stack web app
-- 🧠 [**Csense**](https://github.com/Dharaneesh0205/csense) – AI camera automation Monitoring System using React,Computer vision & Flutter
-- 🕸️ [**AIM Website**](https://github.com/Dharaneesh0205/aim-website) – Portfolio for the AIrivu Innovation machina Company
-- 🌧️ [**Rain**](https://github.com/Dharaneesh0205/rain) – Portfolio for the Myrain Company
+
 
 
 
