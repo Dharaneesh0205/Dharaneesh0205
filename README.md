@@ -3,8 +3,7 @@
 
 ### 👨‍🎓 About Me:
 🎓 Final year student at **KPR Institute of Engineering and Technology**  
-🧠 Passionate about solving real-world problems using **Machine Learning**, **Deep Learning**, **Computer Vision** & **Full Stack Development**  
-🔬 Currently working on research in **Energy Forecasting**    
+🧠 Passionate about solving real-world problems using **Machine Learning**, **Deep Learning**, **Computer Vision** & **Full Stack Development**     
 🎯 Always open to collaboration on research and innovative AI/full stack solutions  
 
 ---
