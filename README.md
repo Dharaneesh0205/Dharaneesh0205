@@ -2,7 +2,7 @@
 ## 🚀 ML/DL Enthusiast | AI Researcher | Full Stack Dev | Final Year B.E. (AI & ML)
 
 ### 👨‍🎓 About Me:
-🎓 Final year student at **KPR Institute of Engineering and Technology**  
+🎓 Graduate at **KPR Institute of Engineering and Technology**  
 🧠 Passionate about solving real-world problems using **Machine Learning**, **Deep Learning**, **Computer Vision** & **Full Stack Development**     
 🎯 Always open to collaboration on research and innovative AI/full stack solutions  
 
